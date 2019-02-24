@@ -34,3 +34,8 @@ Resources to help you with your Final Year Project.
 **Grammar Checking**
 - [Grammerly](https://www.grammarly.com/) - Writing Assistant.
 
+# Formatting
+- [Cleave.js](https://github.com/nosir/cleave.js) - to help you format input text content automatically.
+
+# Fileupload
+- [Uppy](https://github.com/transloadit/uppy) - file uploader that integrates seamlessly with any application.
