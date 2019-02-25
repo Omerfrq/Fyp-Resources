@@ -39,3 +39,7 @@ Resources to help you with your Final Year Project.
 
 # Fileupload
 - [Uppy](https://github.com/transloadit/uppy) - file uploader that integrates seamlessly with any application.
+
+# Markdown Parser
+- [Markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser done right. Fast and easy to extend.
+
